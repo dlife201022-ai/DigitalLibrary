@@ -1,20 +1,11 @@
 [
   {
     "id": "1",
-    "title": "လွင်ႈလပ်ႋAIဢၼ်မီးၼ်ႂးမိုဝ်းသူ",
-    "author": "Nature&Waddi",
-    "url": "https://github.com/dlife201022-ai/DigitalLibrary/repo/main/လွင်ႈလပ်ႋAI ဢၼ်မီးၼ်ႂးမီးသူ.pdf",
-    "type": "Free",
-    "price": "0",
-    "thumbnail": "https://raw.githubusercontent.com/user/repo/main/thumb1.png"
-  },
-  {
-    "id": "2",
-    "title": "Advanced Java",
-    "author": "Developer",
-    "url": "https://example.com/book2.pdf",
+    "title": "လွင်ႈလပ်ႉ AI",
+    "author": "Antonio",
+    "url": "https://raw.githubusercontent.com/dlife201022-ai/DigitalLibrary/main/လွင်ႈလပ်ႉAI%20ဢြေ်မီးြေ်းမီးသူ.pdf",
     "type": "Paid",
-    "price": "10000",
-    "thumbnail": "https://raw.githubusercontent.com/user/repo/main/thumb2.png"
+    "price": "5000",
+    "thumbnail": "https://raw.githubusercontent.com/dlife201022-ai/DigitalLibrary/main/cover.jpg"
   }
 ]
